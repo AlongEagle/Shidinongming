@@ -901,7 +901,6 @@ function submitForm1(){
 	
 	  $('#hesuan').window('close');
 		
-	
 	}   
 	    
 	function submitForm3(){
