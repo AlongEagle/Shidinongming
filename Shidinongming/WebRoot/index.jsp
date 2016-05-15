@@ -44,7 +44,7 @@
 <script type="text/javascript" src="js/highcharts-more.src.js"></script>
 <script>
    
- /*   图标显示的柱状图 */
+ /* 图标显示的柱状图 */
 	
 
 
