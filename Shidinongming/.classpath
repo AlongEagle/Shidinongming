@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="melibrary.com.genuitec.eclipse.j2eedt.core.MYECLIPSE_JAVAEE_5_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Demo01"/>
+	<classpathentry kind="lib" path="E:/全部jar/classes12.jar"/>
+	<classpathentry kind="lib" path="E:/全部jar/commons-beanutils.jar"/>
+	<classpathentry kind="lib" path="E:/全部jar/commons-collections-3.0.jar"/>
+	<classpathentry kind="lib" path="E:/全部jar/commons-lang-2.1.jar"/>
+	<classpathentry kind="lib" path="E:/全部jar/commons-logging.jar"/>
+	<classpathentry kind="lib" path="E:/全部jar/commons-logging-1.1.jar"/>
+	<classpathentry kind="lib" path="E:/全部jar/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="E:/全部jar/ezmorph-1.0.2.jar"/>
+	<classpathentry kind="lib" path="E:/全部jar/json-lib-1.1-jdk13.jar"/>
+	<classpathentry kind="lib" path="E:/全部jar/junit-3.8.1.jar"/>
+	<classpathentry kind="lib" path="E:/全部jar/log4j-1.2.13.jar"/>
+	<classpathentry kind="lib" path="E:/全部jar/mysql-connector-java-5.1.7-bin.jar"/>
+	<classpathentry kind="lib" path="E:/全部jar/poi-2.5.1-final-20040804.jar"/>
+	<classpathentry kind="lib" path="E:/全部jar/poi-3.8-20120326.jar"/>
+	<classpathentry kind="lib" path="E:/全部jar/poi-3.9-20121203.jar"/>
+	<classpathentry kind="lib" path="E:/全部jar/poi-examples-3.8-20120326.jar"/>
+	<classpathentry kind="lib" path="E:/全部jar/poi-excelant-3.8-20120326.jar"/>
+	<classpathentry kind="lib" path="E:/全部jar/poi-ooxml-3.8-20120326.jar"/>
+	<classpathentry kind="lib" path="E:/全部jar/poi-ooxml-schemas-3.8-20120326.jar"/>
+	<classpathentry kind="lib" path="E:/全部jar/poi-scratchpad-3.8-20120326.jar"/>
+	<classpathentry kind="lib" path="E:/全部jar/stax-api-1.0.1.jar"/>
+	<classpathentry kind="lib" path="E:/全部jar/xmlbeans-2.3.0.jar"/>
+	<classpathentry kind="lib" path="E:/全部jar/xom-1.0d10.jar"/>
+	<classpathentry kind="output" path="WebRoot/WEB-INF/classes"/>
+</classpath>
