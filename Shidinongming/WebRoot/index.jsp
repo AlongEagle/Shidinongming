@@ -897,7 +897,12 @@ function submitForm1(){
 	    
 	    }
 	    
-	    
+	function clearForm() {
+	
+	  $('#hesuan').window('close');
+		
+	
+	}   
 	    
 	function submitForm3(){
 	      	var hesuanshijian_year=$('#hesuanshijian_year').val();
